@@ -1,0 +1,31 @@
+{
+  "vendor": "vendor",
+  "name": "custom-apps",
+  "version": "1.0.1",
+  "title": "Custom Apps",
+  "description": "Create your custom apps here",
+  "builders": {
+    "react": "3.x",
+    "docs": "0.x",
+    "messages": "1.x",
+    "store": "0.x"
+  },
+  "registries": ["smartcheckout"],
+  "credentialType": "absolute",
+  "policies": [
+    {
+      "name": "ADMIN_DS"
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{account}}.vtexcommercestable.com.br",
+        "path": "/api/dataentities/*"
+      }
+    }
+  ],
+  "dependencies": {
+    "vtex.slider-layout": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

@@ -1,0 +1,9 @@
+{
+  "admin/editor.testimonials.title": "Testimonios",
+  "admin/editor.testimonials.infinite": "Infinito",
+  "admin/editor.testimonials.showNavigation": "Mostrar flechas de navegación",
+  "admin/editor.testimonials.showPaginationDots": "Mostrar puntos de paginación",
+  "admin/editor.testimonials.usePagination": "Usar paginación",
+  "admin/editor.testimonials.sliderFullWidth": "Anchura completa",
+  "admin/editor.testimonials.sliderFullWidthDescription": "Controla si las diapositivas deben ocupar la anchura completa y hacer que las flechas desaparezcan encima de ellas."
+}

@@ -1,0 +1,9 @@
+{
+  "admin/editor.testimonials.title": "Testimonials",
+  "admin/editor.testimonials.infinite": "Infinite",
+  "admin/editor.testimonials.showNavigation": "Show navigation arrows",
+  "admin/editor.testimonials.showPaginationDots": "Show pagination dots",
+  "admin/editor.testimonials.usePagination": "Use pagination",
+  "admin/editor.testimonials.sliderFullWidth": "Full width",
+  "admin/editor.testimonials.sliderFullWidthDescription": "Controls whether or not the slides should fill the full available width, making the arrows appear on top of them."
+}

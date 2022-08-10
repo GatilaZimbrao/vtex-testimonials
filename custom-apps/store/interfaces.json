@@ -1,0 +1,8 @@
+{
+  "testimonials": {
+    "component": "Testimonials",
+    "content": {
+      "$ref": "#/definitions/SliderLayout"
+    }
+  }
+}

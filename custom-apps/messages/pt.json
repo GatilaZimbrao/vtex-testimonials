@@ -1,0 +1,9 @@
+{
+  "admin/editor.testimonials.title": "Depoimentos",
+  "admin/editor.testimonials.infinite": "Infinito",
+  "admin/editor.testimonials.showNavigation": "Mostrar setas para navegação",
+  "admin/editor.testimonials.showPaginationDots": "Mostrar indicadores de paginação",
+  "admin/editor.testimonials.usePagination": "Usar paginação",
+  "admin/editor.testimonials.sliderFullWidth": "Largura completa",
+  "admin/editor.testimonials.sliderFullWidthDescription": "Controla se os slides devem ou não ocupar toda a largura disponível, fazendo as setas aparecerem sobre eles."
+}

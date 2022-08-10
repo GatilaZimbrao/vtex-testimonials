@@ -1,0 +1,38 @@
+{
+  "definitions": {
+    "SliderLayout": {
+      "title": "admin/editor.testimonials.title",
+      "type": "object",
+      "properties": {
+        "infinite": {
+          "default": true,
+          "title": "admin/editor.testimonials.infinite",
+          "type": "boolean"
+        },
+        "showNavigationArrows": {
+          "default": "always",
+          "enum": ["mobileOnly", "desktopOnly", "always", "never"],
+          "title": "admin/editor.testimonials.showNavigation",
+          "type": "string"
+        },
+        "showPaginationDots": {
+          "default": "always",
+          "enum": ["mobileOnly", "desktopOnly", "always", "never"],
+          "title": "admin/editor.testimonials.showPaginationDots",
+          "type": "string"
+        },
+        "usePagination": {
+          "default": true,
+          "title": "admin/editor.testimonials.usePagination",
+          "type": "boolean"
+        },
+        "fullWidth": {
+          "default": true,
+          "title": "admin/editor.testimonials.sliderFullWidth",
+          "description": "admin/editor.testimonials.sliderFullWidthDescription",
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
